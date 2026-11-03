@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left bracket < -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M39.5,33.5 L24.5,49.5 C22.5,51.5 22.5,56.5 24.5,58.5 L39.5,74.5 C40.8,75.8 43.0,75.8 44.3,74.5 C45.6,73.2 45.6,71.0 44.3,69.7 L31.6,54.0 L44.3,38.3 C45.6,37.0 45.6,34.8 44.3,33.5 C43.0,32.2 40.8,32.2 39.5,33.5 Z" />
+    
+    <!-- Right bracket > -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M68.5,33.5 C67.2,32.2 65.0,32.2 63.7,33.5 C62.4,34.8 62.4,37.0 63.7,38.3 L76.4,54.0 L63.7,69.7 C62.4,71.0 62.4,73.2 63.7,74.5 C65.0,75.8 67.2,75.8 68.5,74.5 L83.5,58.5 C85.5,56.5 85.5,51.5 83.5,49.5 L68.5,33.5 Z" />
+
+    <!-- Center AI Spark / Diamond Star -->
+    <path
+        android:fillColor="#38E54D"
+        android:pathData="M54,34 C54,44 48,49 39,54 C48,59 54,64 54,74 C54,64 60,59 69,54 C60,49 54,44 54,34 Z" />
+
+    <!-- Core glowing center dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,51 C52.3,51 51,52.3 51,54 C51,55.7 52.3,57 54,57 C55.7,57 57,55.7 57,54 C57,52.3 55.7,51 54,51 Z" />
+</vector>

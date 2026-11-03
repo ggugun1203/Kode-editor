@@ -1,0 +1,6 @@
+{
+  "name": "DroidStudio AI",
+  "description": "Android IDE with Code Editor, Local Web Server, AI Assistant, and Cloud APK Builder",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
